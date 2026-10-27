@@ -1,0 +1,12 @@
+name: FastXP
+version: '${version}'
+main: info.plugin.minecraft.fastXP.FastXP
+api-version: '26.2'
+author: Robin
+description: Entfernt den Cooldown beim Einsammeln von XP-Kugeln.
+
+commands:
+  fastxp:
+    description: Schaltet FastXP für dich an oder aus.
+    permission: fastxp.use
+    usage: /fastxp
