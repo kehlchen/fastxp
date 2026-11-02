@@ -19,8 +19,11 @@ hs_err_pid*
 
 # Common working directory
 run
+<<<<<<< HEAD
 .gradle/
 build/
 .idea/
 *.iml
 GitHub-Upload.bat
+=======
+>>>>>>> origin/main

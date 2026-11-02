@@ -39,6 +39,7 @@ public final class FastXP extends JavaPlugin implements Listener, CommandExecuto
         }
 
         getLogger().info("FastXP erfolgreich aktiviert!");
+<<<<<<< HEAD
         int pluginId = 35081;
         Metrics metrics = new Metrics(this, pluginId);
 
@@ -46,6 +47,8 @@ public final class FastXP extends JavaPlugin implements Listener, CommandExecuto
         metrics.addCustomChart(
                 new Metrics.SimplePie("chart_id", () -> "My value")
         );
+=======
+>>>>>>> origin/main
     }
 
     @Override
