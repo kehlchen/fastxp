@@ -1,0 +1,6 @@
+name: FastXP
+version: '${version}'
+
+main: info.plugin.minecraft.fastXP.FastXP
+api-version: '26.1.1'
+load: POSTWORLD
